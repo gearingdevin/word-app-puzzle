@@ -2,5 +2,5 @@
 
 
 To Run:
--yarn start
--npm run server
+- yarn start
+- npm run server
