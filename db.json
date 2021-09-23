@@ -1,0 +1,19 @@
+{
+  "words": [
+    {
+      "value": "TEST",
+      "length": 4,
+      "id": 7
+    },
+    {
+      "value": "GEORGE",
+      "length": 6,
+      "id": 8
+    },
+    {
+      "value": "HELLO",
+      "length": 5,
+      "id": 10
+    }
+  ]
+}

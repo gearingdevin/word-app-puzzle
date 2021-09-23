@@ -1,0 +1,3 @@
+<app-add-word (onAddWord)="addWord($event)"></app-add-word>
+<app-word-item *ngFor="let word of words" [word]="word" (onDeleteWord)="deleteWord(word)"></app-word-item>
+<a routerLink="/puzzle">Generate Puzzle</a>
